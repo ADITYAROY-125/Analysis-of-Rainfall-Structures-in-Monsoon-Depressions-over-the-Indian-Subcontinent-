@@ -1,0 +1,6 @@
+"Metric","IMD Gauge","IMERG","ERA5 Standard","ERA5 Cloud Cover","MEERA (MERRA-2)"
+"Event Representation","Excellent","Very Good","Good","Very Good","Good"
+"Partition Accuracy","Not Applicable","Good","Moderate","Good","Moderate"
+"Extreme Rainfall Accuracy","Best","Good","Underestimates","Moderate","Moderate to Good"
+"Spatial Resolution","Good","Excellent","Good","Good","Fair"
+"Overall Accuracy","Very High","Very High","Moderate","High","Moderate"
